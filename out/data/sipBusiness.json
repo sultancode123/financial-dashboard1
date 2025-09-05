@@ -1,0 +1,28 @@
+{
+  "3d": [
+    { "month": "Jul", "sipAmount": 220, "sipCount": 45 },
+    { "month": "Aug", "sipAmount": 250, "sipCount": 52 },
+    { "month": "Sep", "sipAmount": 240, "sipCount": 48 }
+  ],
+  "7d": [
+    { "month": "Jun", "sipAmount": 210, "sipCount": 42 },
+    { "month": "Jul", "sipAmount": 230, "sipCount": 47 },
+    { "month": "Aug", "sipAmount": 260, "sipCount": 55 },
+    { "month": "Sep", "sipAmount": 245, "sipCount": 50 }
+  ],
+  "10d": [
+    { "month": "May", "sipAmount": 190, "sipCount": 40 },
+    { "month": "Jun", "sipAmount": 220, "sipCount": 44 },
+    { "month": "Jul", "sipAmount": 235, "sipCount": 49 },
+    { "month": "Aug", "sipAmount": 270, "sipCount": 58 },
+    { "month": "Sep", "sipAmount": 255, "sipCount": 53 }
+  ],
+  "30d": [
+    { "month": "Apr", "sipAmount": 175, "sipCount": 36 },
+    { "month": "May", "sipAmount": 200, "sipCount": 39 },
+    { "month": "Jun", "sipAmount": 230, "sipCount": 44 },
+    { "month": "Jul", "sipAmount": 245, "sipCount": 49 },
+    { "month": "Aug", "sipAmount": 275, "sipCount": 60 },
+    { "month": "Sep", "sipAmount": 260, "sipCount": 55 }
+  ]
+}

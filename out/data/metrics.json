@@ -1,0 +1,5 @@
+{
+  "range": "30d",
+  "AUM": { "label": "AUM", "value": 215000000, "mom": 4.8 },
+  "SIP": { "label": "SIP", "value": 1250000, "mom": -1.2 }
+}

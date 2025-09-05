@@ -1,0 +1,6 @@
+{
+  "3d":   { "range": "3d",  "purchases": 120, "redemptions": 45, "rejectedTransactions": 2,  "sipRejections": 1,  "newSIP": 22  },
+  "7d":   { "range": "7d",  "purchases": 300, "redemptions": 130,"rejectedTransactions": 6,  "sipRejections": 3,  "newSIP": 55  },
+  "10d":  { "range": "10d", "purchases": 420, "redemptions": 180,"rejectedTransactions": 9,  "sipRejections": 4,  "newSIP": 77  },
+  "30d":  { "range": "30d", "purchases": 980, "redemptions": 520,"rejectedTransactions": 22, "sipRejections": 11, "newSIP": 210 }
+}

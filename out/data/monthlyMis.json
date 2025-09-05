@@ -1,0 +1,22 @@
+{
+  "30d": [
+    { "month": "Apr", "purchases": 500, "redemptions": 220, "aum": 1500 },
+    { "month": "May", "purchases": 620, "redemptions": 260, "aum": 1600 },
+    { "month": "Jun", "purchases": 680, "redemptions": 300, "aum": 1700 },
+    { "month": "Jul", "purchases": 740, "redemptions": 330, "aum": 1820 },
+    { "month": "Aug", "purchases": 810, "redemptions": 370, "aum": 1950 },
+    { "month": "Sep", "purchases": 900, "redemptions": 420, "aum": 2100 }
+  ],
+  "10d": [
+    { "month": "Jul", "purchases": 740, "redemptions": 330, "aum": 1820 },
+    { "month": "Aug", "purchases": 810, "redemptions": 370, "aum": 1950 },
+    { "month": "Sep", "purchases": 900, "redemptions": 420, "aum": 2100 }
+  ],
+  "7d": [
+    { "month": "Aug", "purchases": 810, "redemptions": 370, "aum": 1950 },
+    { "month": "Sep", "purchases": 900, "redemptions": 420, "aum": 2100 }
+  ],
+  "3d": [
+    { "month": "Sep", "purchases": 900, "redemptions": 420, "aum": 2100 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "3d": [
+    { "name": "HNI",     "aum": 30, "clients": 10, "value": 80 },
+    { "name": "Retail",  "aum": 12, "clients": 40, "value": 50 },
+    { "name": "Family",  "aum": 22, "clients": 18, "value": 65 }
+  ],
+  "7d": [
+    { "name": "HNI",     "aum": 32, "clients": 12, "value": 85 },
+    { "name": "Retail",  "aum": 14, "clients": 55, "value": 55 },
+    { "name": "Family",  "aum": 20, "clients": 20, "value": 60 }
+  ],
+  "10d": [
+    { "name": "HNI",     "aum": 31, "clients": 13, "value": 83 },
+    { "name": "Retail",  "aum": 16, "clients": 60, "value": 58 },
+    { "name": "Family",  "aum": 22, "clients": 22, "value": 62 }
+  ],
+  "30d": [
+    { "name": "HNI",     "aum": 35, "clients": 16, "value": 90 },
+    { "name": "Retail",  "aum": 18, "clients": 74, "value": 60 },
+    { "name": "Family",  "aum": 24, "clients": 27, "value": 68 }
+  ]
+}
