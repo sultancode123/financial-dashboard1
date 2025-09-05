@@ -49,6 +49,14 @@ Mock API endpoints are served from JSON files inside `/public/data/`:
 The app fetches and filters data dynamically based on the selected time range.
 
 ---
+## 📸 Screenshots
+<img width="1434" height="662" alt="Scree<img width="1343" height="478" alt="Screenshot 2025-09-05 at 12 33 13 PM" src="https://github.com/user-attachments/assets/f9bbb366-06b2-49cc-a785-bbc95486536b" />
+nshot 2025-09-05 at 12 33 37 PM" src="https://github.com/user-attachments/assets/42beb3cc-07c4-4091-b3d1-bd841959a834" />
+<img width="1436" height="656" alt="Screenshot 2025-09-05 at 12 32 59 PM" src="https://github.com/user-attachments/assets/d86e3662-228f-4871-990b-7def60ead2c2" />
+
+### Dashboard – Light Mode<img width="1253" height="438" alt="Screenshot 2025-09-05 at 12 33 22 PM" src="https://github.com/user-attachments/assets/949c626a-3712-4cdf-93a5-1786e12f9176" />
+
+![Dashboard Light](./screenshots/dashboard-light.png)
 
 ## 🛠️ Setup & Run
 
@@ -58,10 +66,7 @@ Clone the repository:
 git clone https://github.com/sultancode123/wealthpro-dashboard.git
 cd wealthpro-dashboard
 
-## 📸 Screenshots
 
-### Dashboard – Light Mode
-![Dashboard Light](./screenshots/dashboard-light.png)
 
 ### Dashboard – Dark Mode
 ![Dashboard Dark](./screenshots/dashboard-dark.png)
